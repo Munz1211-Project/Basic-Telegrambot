@@ -1,5 +1,5 @@
 # Basic-Telegrambot
-Basic Telegram Bot With Grammyjs Base
+Basic Telegram Bot With Grammyjs Base With Typescript
 
 FIRST
 ```
