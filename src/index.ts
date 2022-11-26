@@ -20,7 +20,7 @@ bot.command("start", async (ctx) => {
     ctx.api.sendMessage(ctx.chat.id,`Hi ${ctx.message?.from.first_name} 🖐\nWelcome To Bot @munzdev`)
 });
 
-bot.command("p", async (ctx) => {
+bot.command("ping", async (ctx) => {
         ctx.deleteMessage();
         if(!config.ID_ADMIN.includes(`${ctx.from?.id}`)) {
             const p = await ctx.reply("no have akses")
