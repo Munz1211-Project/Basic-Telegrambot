@@ -1,0 +1,39 @@
+{
+  "name": "tele-ts",
+  "version": "1.0.0",
+  "description": "bot telegram use typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run compile && node -r dotenv/config dist",
+    "compile": "rimraf dist && tsc",
+    "dev": "ts-node -r dotenv/config src"
+  },
+  "devDependencies": {
+    "@hazmi35/eslint-config": "^8.6.0",
+    "@types/node": "^16.11.22",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "eslint": "^8.28.0",
+    "eslint-plugin-import": "^2.26.0",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "grammy": "^1.12.0",
+    "moment": "^2.29.4",
+    "node": "^16.13.2",
+    "ts-node": "^10.9.1"
+  },
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Munz1211-Project/Basic-Telegrambot.git"
+  },
+  "author": "Munz1211",
+  "license": "GPL-3.0",
+      "bugs": {
+        "url": "https://github.com/Munz1211-Project/Basic-Telegrambot/issues"
+    },
+    "homepage": "https://github.com/Munz1211-Project/Basic-Telegrambot#readme"
+}
