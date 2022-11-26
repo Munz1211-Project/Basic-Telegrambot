@@ -15,3 +15,13 @@ IF YOU WANT RUN WITH PRODUCTION
 ```
 npm start
 ```
+
+IF YOU WANT TO ASK, YOU CAN DIRECTLY GO TO THE GRAMMY DISCUSSION
+```
+https://t.me/grammyjs
+```
+
+DOCS GRAMMY
+```
+www.grammy.dev
+```
