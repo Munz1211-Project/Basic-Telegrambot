@@ -23,5 +23,5 @@ https://t.me/grammyjs
 
 DOCS GRAMMY
 ```
-www.grammy.dev
+https://www.grammy.dev
 ```
