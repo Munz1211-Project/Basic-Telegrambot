@@ -3,7 +3,7 @@ Basic Telegram Bot With Grammyjs Base With Typescript
 
 FIRST
 ```
-npm start
+npm i
 ```
 
 IF YOU WANT RUN WITH DEV 
